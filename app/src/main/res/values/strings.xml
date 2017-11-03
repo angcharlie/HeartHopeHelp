@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HeartHopeHelp</string>
+    <string name="HHHtextView">Heart Hope Help</string>
+    <string name="login_textView">Log In</string>
+    <string name="app_description">Welcome to Heart Hope Help! Where homeless individuals can be helped.</string>
+    <string name="login_with_facebook_button">Login with Facebook</string>
+    <string name="report_button">Report</string>
+    <string name="report_description">Please use this form to fill out a report regarding any general issues or feedback.</string>
+    <string name="title_editTextHint">Subject of report</string>
+
+    <string-array name="reason_to_report_spinner">
+        <item>Select a reason to report</item>
+        <item>Bugs/Problems With Application</item>
+        <item>Illegitimate Profile</item>
+        <item>Feedback</item>
+    </string-array>
+    <string name="submit_button">Submit</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="facebook_app_id">1916157542003046</string>
+    <string name="fb_login_protocol_scheme">fb1916157542003046</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="add_new_profile_button">Add New Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_logout">Logout</string>
+
+</resources>
